@@ -1,0 +1,23 @@
+
+header{
+    background-color: blueviolet;
+    color: white;
+}
+div{
+    color: white;
+    border-color: black;
+}
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    border-style: inset;
+    border-color: black;
+    border-width: 2px;
+    padding: 20px;
+}
+
+.flex-item2{
+    margin: 10px;
+    align-items: center;
+    padding: 5px;
+}
